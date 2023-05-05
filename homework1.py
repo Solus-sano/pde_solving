@@ -83,5 +83,5 @@ def main2():
     show_loss(0,mth.pi,1,-mth.exp(mth.pi),flag=2)
 
 if __name__ == '__main__':
-    main2()
+    main1()
     plt.show()
